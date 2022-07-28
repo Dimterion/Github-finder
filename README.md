@@ -6,4 +6,4 @@ Udemy course project to learn React
 
 ## Built with
 
-React, React Router, TailwindCSS, DaisyUI
+React, React Router, TailwindCSS, DaisyUI, Prettier
