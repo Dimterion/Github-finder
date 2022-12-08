@@ -6,3 +6,7 @@
   border-radius: 0.5rem;
   opacity: 0.45;
 }
+
+.card-body.justify-end {
+  padding: 10px;
+}
