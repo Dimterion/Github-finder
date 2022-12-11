@@ -1,10 +1,10 @@
-# GitHub Finder application
+# GitHub Finder
 
 Udemy course project to learn React
 
-## Live demo
+## Live Demo
 
-[GitHub Finder app](https://github-finder-chi-ten.vercel.app/)
+[GitHub Finder](https://github-finder-chi-ten.vercel.app/)
 
 ## Details
 
